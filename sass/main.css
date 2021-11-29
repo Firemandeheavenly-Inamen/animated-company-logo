@@ -40,7 +40,7 @@ circle {
 
 .element {
   position: absolute;
-  top: 15%;
+  top: 7%;
   left: 46%;
   animation-name: appear;
   animation-duration: 4s;
